@@ -5,9 +5,9 @@ Three sources/sets:
 
 *[DJT library](http://djt.netlify.com)
 
-*4048 articles from [Asahi Shinbun](https://www.asahi.com/)
+*4048 articles from [Asahi Shinbun](https://www.asahi.com/) *Pending analysis*
 
-*9311 articles from [Manichi Shinbun](https://mainichi.jp/)
+*9311 articles from [Manichi Shinbun](https://mainichi.jp/) *Pending analysis*
 
 ## Method
 
