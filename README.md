@@ -11,13 +11,13 @@ Three sources/sets:
 
 ## Method
 
-*JapaneseTokenizer
+* JapaneseTokenizer
   * Mecab with ipadic
   
-*requests
+* requests
 
-*BeautifulSoup
+* BeautifulSoup
 
-*I suck at programming
+* I suck at programming
 
-*I should have been studying instead
+* I should have been studying instead
